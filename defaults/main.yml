@@ -1,0 +1,5 @@
+---
+mysql_database: guacamoledb
+mysql_user: guacamole
+mysql_password: guacamole9999
+mysql_root_password: guacamole9999
